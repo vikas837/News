@@ -1,0 +1,186 @@
+{
+  "status": "ok",
+  "totalResults": 0,
+  "articles": [
+    {
+      "title": "Passkeys are great, but not safe from quantum computers. Dilithium could change that. - Ars Technica",
+      "author": "Dan Goodin",
+      "source": {
+        "Id": "ars-technica",
+        "Name": "Ars Technica"
+      },
+      "publishedAt": "2023-08-18T20:01:25Z",
+      "url": "https://arstechnica.com/security/2023/08/passkeys-are-great-but-not-safe-from-quantum-computers-dilithium-could-change-that/"
+    },
+    {
+      "title": "Ukraine will get F-16 fighter jets from the Dutch and Danes after the U.S. agrees to allow transfers - ABC News",
+      "author": "SAMYA KULLAB, MIKE CORDER and JAN M. OLSEN Associated Press",
+      "source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "publishedAt": "2023-08-18T19:30:44Z",
+      "url": "https://abcnews.go.com/International/wireStory/drone-shot-central-moscow-injuries-reported-102363413"
+    },
+    {
+      "title": "Microsoft says listing the Ottawa Food Bank as a tourist destination wasn't the result of 'unsupervised AI' - The Verge",
+      "author": "Jay Peters",
+      "source": {
+        "Id": "the-verge",
+        "Name": "The Verge"
+      },
+      "publishedAt": "2023-08-18T18:59:54Z",
+      "url": "https://www.theverge.com/2023/8/17/23836287/microsoft-ai-recommends-ottawa-food-bank-tourist-destination"
+    },
+    {
+      "title": "Jadeveon Clowney signs with Ravens: Ex-Browns pass rusher, No. 1 overall pick joining Baltimore - CBS Sports",
+      "author": "",
+      "source": {
+        "Id": null,
+        "Name": "CBS Sports"
+      },
+      "publishedAt": "2023-08-18T18:55:00Z",
+      "url": "https://www.cbssports.com/nfl/news/jadeveon-clowney-signs-with-ravens-ex-browns-pass-rusher-no-1-overall-pick-joining-baltimore/"
+    },
+    {
+      "title": "Georgia steps up investigation into threats against Trump grand jurors - The Guardian US",
+      "author": "Lauren Aratani, Maya Yang",
+      "source": {
+        "Id": null,
+        "Name": "The Guardian"
+      },
+      "publishedAt": "2023-08-18T18:13:00Z",
+      "url": "https://www.theguardian.com/us-news/2023/aug/18/georgia-trump-grand-jury-threats-investigation"
+    },
+    {
+      "title": "Marijuana and hallucinogen use, binge drinking reached record highs among middle-aged adults, survey finds - CNN",
+      "author": "Giri Viswanathan",
+      "source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "publishedAt": "2023-08-18T18:05:00Z",
+      "url": "https://www.cnn.com/2023/08/17/health/marijuana-hallucinogen-binge-drinking-adults/index.html"
+    },
+    {
+      "title": "GOP candidates claim to qualify for the debate — and dare the RNC to say no - POLITICO",
+      "author": null,
+      "source": {
+        "Id": "politico",
+        "Name": "Politico"
+      },
+      "publishedAt": "2023-08-18T17:50:55Z",
+      "url": "https://www.politico.com/news/2023/08/18/gop-longshot-debate-campaigns-00111859"
+    },
+    {
+      "title": "Children of Ukraine's diaries on display in city where Anne Frank hid - USA TODAY",
+      "author": "Mike Corder, USA TODAY",
+      "source": {
+        "Id": "usa-today",
+        "Name": "USA Today"
+      },
+      "publishedAt": "2023-08-18T16:29:06Z",
+      "url": "https://www.usatoday.com/story/news/world/2023/08/18/ukraine-children-diaries-on-display-anne-frank-city/70618482007/"
+    },
+    {
+      "title": "Cape Verde: Authorities 'left people to die' despite warnings about migrant boat weeks before tragedy, rights group alleges - CNN",
+      "author": "Benjamin Brown, Zahid Mahmood, Stephanie Busari, Mostafa Salem",
+      "source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "publishedAt": "2023-08-18T16:23:00Z",
+      "url": "https://www.cnn.com/2023/08/18/world/cape-verde-migrant-death-boat-intl/index.html"
+    },
+    {
+      "title": "‘Percy Jackson And The Olympians’ Gets Disney+ Premiere Date, New Teaser - Deadline",
+      "author": "Nellie Andreeva",
+      "source": {
+        "Id": null,
+        "Name": "Deadline"
+      },
+      "publishedAt": "2023-08-18T16:16:00Z",
+      "url": "https://deadline.com/2023/08/percy-jackson-and-the-olympians-premiere-date-disney-plus-teaser-1235522402/"
+    },
+    {
+      "title": "Why 'white noise' podcasts are costing Spotify $38M per year in profits - New York Post ",
+      "author": "Thomas Barrabi",
+      "source": {
+        "Id": null,
+        "Name": "New York Post"
+      },
+      "publishedAt": "2023-08-18T16:11:00Z",
+      "url": "https://nypost.com/2023/08/18/why-white-noise-podcasts-are-costing-spotify-38m-per-year-in-profits/"
+    },
+    {
+      "title": "India's Chandrayaan-3 snaps close-up photos of moon ahead of landing try (video) - Space.com",
+      "author": "Mike Wall",
+      "source": {
+        "Id": null,
+        "Name": "Space.com"
+      },
+      "publishedAt": "2023-08-18T16:01:44Z",
+      "url": "https://www.space.com/india-chandrayaan-3-moon-photos-august-2023"
+    },
+    {
+      "title": "Pink shows love for Britney Spears with 'sweet' lyric change amid divorce from Sam Asghari - USA TODAY",
+      "author": "Patrick Ryan",
+      "source": {
+        "Id": "usa-today",
+        "Name": "USA Today"
+      },
+      "publishedAt": "2023-08-18T15:55:21Z",
+      "url": "https://www.usatoday.com/story/entertainment/music/2023/08/18/pink-britney-spears-sam-asghari/70619220007/"
+    },
+    {
+      "title": "Justin Bieber and Scooter Braun Have Not Parted Ways, Still Working Together (Exclusive) - Entertainment Tonight",
+      "author": "Anthony Dominic",
+      "source": {
+        "Id": null,
+        "Name": "Entertainment Tonight"
+      },
+      "publishedAt": "2023-08-18T15:47:33Z",
+      "url": "https://www.etonline.com/justin-bieber-and-scooter-braun-have-not-parted-ways-still-working-together-exclusive-209988"
+    },
+    {
+      "title": "Crypto sell-off intensifies, with XRP, Litecoin, and Bitcoin Cash among the hardest hit - Fortune",
+      "author": "Ben Weiss",
+      "source": {
+        "Id": "fortune",
+        "Name": "Fortune"
+      },
+      "publishedAt": "2023-08-18T15:43:00Z",
+      "url": "https://fortune.com/crypto/2023/08/18/crypto-bitcoin-downtrun-xrp-litecoin-bitcoin-cash-down/"
+    },
+    {
+      "title": "American referee Tori Penso picked by FIFA for England-Spain final at Women's World Cup - ABC News",
+      "author": "The Associated Press",
+      "source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "publishedAt": "2023-08-18T14:44:01Z",
+      "url": "https://abcnews.go.com/Sports/wireStory/american-referee-tori-penso-picked-fifa-england-spain-102369694"
+    },
+    {
+      "title": "UFC 292 weigh-in results: Sean O’Malley, Aljamain Sterling on point for championship grudge match - MMA Fighting",
+      "author": "Alexander K. Lee",
+      "source": {
+        "Id": null,
+        "Name": "MMA Fighting"
+      },
+      "publishedAt": "2023-08-18T14:36:34Z",
+      "url": "https://www.mmafighting.com/2023/8/18/23837145/ufc-292-weigh-in-results-sean-omalley-aljamain-sterling-on-point-for-championship-grudge-match"
+    },
+    {
+      "title": "Best Taylor Swift Eras Tour Moments: Surprise Guests And More - Rolling Stone",
+      "author": "Rolling Stone",
+      "source": {
+        "Id": null,
+        "Name": "Rolling Stone"
+      },
+      "publishedAt": "2023-08-18T14:32:38Z",
+      "url": "https://www.rollingstone.com/music/music-lists/best-taylor-swift-eras-tour-moments-1234807544/"
+    }
+  ]
+}
